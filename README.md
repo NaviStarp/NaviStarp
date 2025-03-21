@@ -17,8 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navistarp&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="navistarp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navistarp&show_icons=true&theme=github_dark&locale=en" alt="navistarp" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navistarp&theme=github_dark" alt="navistarp" /></p>
 
 ![Serpiente gif](https://github.com/NaviStarp/NaviStarp/blob/output/github-snake-dark.svg)
