@@ -21,3 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navistarp&theme=github_dark" alt="navistarp" /></p>
 
+![Serpiente gif](https://github.com/NaviStarp/NaviStarp/blob/output/github-snake-dark.svg)
